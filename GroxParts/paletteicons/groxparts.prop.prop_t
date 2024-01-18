@@ -1,0 +1,7 @@
+key paletteSetButtonBackgroundIcon common~!groxpartsbgicon.png
+key paletteSetButtonIcon common~!groxpartsicon.png
+key paletteSetButtonLayout layouts~!0x98F661C7.layout
+texts paletteSetName
+	(groxparts!groxparts) "Grox Parts"
+end
+int32 paletteSetSequenceNumber 2048

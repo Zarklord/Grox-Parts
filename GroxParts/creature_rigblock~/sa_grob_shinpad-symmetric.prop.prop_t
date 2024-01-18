@@ -1,0 +1,4 @@
+key parent creature_rigblock~!sa_grob_shinpad
+key modelMeshLOD0 editor_rigblocks~!sa_grob_shinpad-symmetric.rw4
+vector3 modelRotation (0, 180, 0)
+vector3 modelSwatchRotation (-20, 0, 40)

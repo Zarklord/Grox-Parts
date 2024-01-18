@@ -1,0 +1,19 @@
+key parent Adventure_brushes~!TemplateManifest.prop
+keys validEditorKeys
+	creature_rigblock~!ce_sense_eye_grob-symmetric
+	creature_rigblock~!ce_sense_eye_grob
+	creature_rigblock~!SA_grob_armband-symmetric
+	creature_rigblock~!SA_grob_armband
+	creature_rigblock~!SA_grob_collar
+	creature_rigblock~!SA_grob_eyepiece
+	creature_rigblock~!SA_grob_foot-symmetric
+	creature_rigblock~!SA_grob_foot
+	creature_rigblock~!SA_grob_grasper-symmetric
+	creature_rigblock~!SA_grob_grasper
+	creature_rigblock~!SA_grob_helmet-symmetric
+	creature_rigblock~!SA_grob_helmet
+	creature_rigblock~!SA_grob_shinpad-symmetric
+	creature_rigblock~!SA_grob_shinpad
+	creature_rigblock~!SA_grob_shoulderPiece
+	creature_rigblock~!SA_grob_vest
+end

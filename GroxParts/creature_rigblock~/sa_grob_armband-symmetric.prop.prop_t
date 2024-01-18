@@ -1,0 +1,4 @@
+key parent creature_rigblock~!sa_grob_armband
+key modelMeshLOD0 editor_rigblocks~!sa_grob_armband-symmetric.rw4
+vector3 modelOffset (0.05, 0.078, -0.01)
+vector3 modelSwatchRotation (0, 0, 60)

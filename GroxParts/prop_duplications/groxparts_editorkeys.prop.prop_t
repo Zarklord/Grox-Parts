@@ -1,0 +1,12 @@
+string8s duplicateList
+	"ca_editorkeys editor_keys"
+	"ce_editorkeys editor_keys"
+	"sa_editorkeys editor_keys"
+	"ta_editorkeys editor_keys"
+end
+key ca_editorkeys ca_EditorKeys~!groxparts_editorkeys
+key ce_editorkeys ce_EditorKeys~!groxparts_editorkeys
+key sa_editorkeys sa_EditorKeys~!groxparts_editorkeys
+key ta_editorkeys ta_EditorKeys~!groxparts_editorkeys
+
+key editor_keys groxparts_editorkeys!editorkeys

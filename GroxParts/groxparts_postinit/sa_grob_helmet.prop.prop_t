@@ -1,0 +1,10 @@
+uint32s removeProperties
+	0x1CBB2F62 #modelDefaultChannelsBBox
+end
+texts blockName
+	(groxparts!0x68480e7c) ""
+end
+key modelRightFile creature_rigblock~!sa_grob_helmet
+key modelLeftFile creature_rigblock~!sa_grob_helmet-symmetric
+int32 modelCapabilityHealth  2
+int32 modelPrice 25

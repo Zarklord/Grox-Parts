@@ -1,0 +1,10 @@
+uint32s removeProperties
+	0x1CBB2F62 #modelDefaultChannelsBBox
+end
+texts blockName
+	(groxparts!0x29f8aebc) ""
+end
+key modelRightFile creature_rigblock~!sa_grob_shinpad
+key modelLeftFile creature_rigblock~!sa_grob_shinpad-symmetric
+int32 modelCapabilityHealth  2
+int32 modelPrice 25

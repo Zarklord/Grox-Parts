@@ -1,0 +1,6 @@
+keys palettePalettePages
+	creature_editor_palette_pages~!groxparts_sense.prop
+	creature_editor_palette_pages~!groxparts_graspers.prop
+	creature_editor_palette_pages~!groxparts_feet.prop
+	creature_editor_palette_pages~!groxparts_details.prop
+end

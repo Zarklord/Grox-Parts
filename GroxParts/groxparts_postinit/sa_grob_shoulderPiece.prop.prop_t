@@ -1,0 +1,9 @@
+uint32s removeProperties
+	0x1CBB2F62 #modelDefaultChannelsBBox
+end
+texts blockName
+	(groxparts!0x68480e78) ""
+end
+vector3 modelSwatchRotation (-93, 0, -120)
+int32 modelCapabilityHealth  2
+int32 modelPrice 25

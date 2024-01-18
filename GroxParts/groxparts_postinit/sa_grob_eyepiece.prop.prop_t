@@ -1,0 +1,11 @@
+uint32s removeProperties
+	0x1CBB2F62 #modelDefaultChannelsBBox
+end
+key newParent CreatureEditorTemplates!CreatureEyeTemplate
+texts blockName
+	(groxparts!0x68480e7f) ""
+end
+int32 modelCapabilityDayVision 1
+int32 modelCapabilityEye 1
+int32 modelCapabilitySense 1
+int32 modelPrice 10

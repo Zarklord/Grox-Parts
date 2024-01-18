@@ -1,0 +1,25 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	3
+	0
+	1
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	0
+	1
+	1
+end
+keys palettePagePartItems
+	creature_rigblock~!sa_grob_vest
+	creature_rigblock~!sa_grob_armband-symmetric
+	creature_rigblock~!sa_grob_collar
+	creature_rigblock~!sa_grob_shoulderPiece
+	creature_rigblock~!sa_grob_helmet-symmetric
+	creature_rigblock~!sa_grob_shinpad-symmetric
+end
+key palettePagePartParentPage groxparts_details

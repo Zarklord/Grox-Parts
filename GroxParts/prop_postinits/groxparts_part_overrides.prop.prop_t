@@ -1,0 +1,53 @@
+string8s postinitList
+	"ce_sense_eye_grob ce_sense_eye_grob_postinit"
+	"ce_sense_eye_grob-symmetric ce_sense_eye_grob-symmetric_postinit"
+	"sa_grob_armband sa_grob_armband_postinit"
+	"sa_grob_collar sa_grob_collar_postinit"
+	"sa_grob_eyepiece sa_grob_eyepiece_postinit"
+	"sa_grob_foot sa_grob_foot_postinit"
+	"sa_grob_foot-symmetric sa_grob_foot_postinit-symmetric"
+	"sa_grob_grasper sa_grob_grasper_postinit"
+	"sa_grob_grasper-symmetric sa_grob_grasper-symmetric_postinit"
+	"sa_grob_helmet sa_grob_helmet_postinit"
+	"sa_grob_shinpad sa_grob_shinpad_postinit"
+	"sa_grob_shoulderPiece sa_grob_shoulderPiece_postinit"
+	"sa_grob_vest sa_grob_vest_postinit"
+end
+key ce_sense_eye_grob creature_rigblock~!ce_sense_eye_grob
+key ce_sense_eye_grob_postinit groxparts_postinit!ce_sense_eye_grob
+
+key ce_sense_eye_grob-symmetric creature_rigblock~!ce_sense_eye_grob-symmetric
+key ce_sense_eye_grob-symmetric_postinit groxparts_postinit!ce_sense_eye_grob-symmetric
+
+key sa_grob_armband creature_rigblock~!sa_grob_armband
+key sa_grob_armband_postinit groxparts_postinit!sa_grob_armband
+
+key sa_grob_collar creature_rigblock~!sa_grob_collar
+key sa_grob_collar_postinit groxparts_postinit!sa_grob_collar
+
+key sa_grob_eyepiece creature_rigblock~!sa_grob_eyepiece
+key sa_grob_eyepiece_postinit groxparts_postinit!sa_grob_eyepiece
+
+key sa_grob_foot creature_rigblock~!sa_grob_foot
+key sa_grob_foot_postinit groxparts_postinit!sa_grob_foot
+
+key sa_grob_foot-symmetric creature_rigblock~!sa_grob_foot-symmetric
+key sa_grob_foot-symmetric_postinit groxparts_postinit!sa_grob_foot-symmetric
+
+key sa_grob_grasper creature_rigblock~!sa_grob_grasper
+key sa_grob_grasper_postinit groxparts_postinit!sa_grob_grasper
+
+key sa_grob_grasper-symmetric creature_rigblock~!sa_grob_grasper-symmetric
+key sa_grob_grasper-symmetric_postinit groxparts_postinit!sa_grob_grasper-symmetric
+
+key sa_grob_helmet creature_rigblock~!sa_grob_helmet
+key sa_grob_helmet_postinit groxparts_postinit!sa_grob_helmet
+
+key sa_grob_shinpad creature_rigblock~!sa_grob_shinpad
+key sa_grob_shinpad_postinit groxparts_postinit!sa_grob_shinpad
+
+key sa_grob_shoulderPiece creature_rigblock~!sa_grob_shoulderPiece
+key sa_grob_shoulderPiece_postinit groxparts_postinit!sa_grob_shoulderPiece
+
+key sa_grob_vest creature_rigblock~!sa_grob_vest
+key sa_grob_vest_postinit groxparts_postinit!sa_grob_vest

@@ -1,0 +1,6 @@
+key parent creature_rigblock~!sa_grob_helmet
+key modelMeshLOD0 editor_rigblocks~!sa_grob_helmet-symmetric.rw4
+vector3 modelOffset (-0.14, 0.16, 0.02)
+vector3 modelRotation (93, -17, 65)
+vector3 modelRotationBallHandleOffset (-0.25, -0.35, 0)
+vector3 modelSwatchRotation (-100, -39, -36)

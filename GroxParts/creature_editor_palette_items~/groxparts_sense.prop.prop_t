@@ -1,0 +1,13 @@
+int32s palettePagePartItemColumns
+	0
+	1
+end
+int32s palettePagePartItemRows
+	0
+	0
+end
+keys palettePagePartItems
+	creature_rigblock~!sa_grob_eyepiece
+	creature_rigblock~!ce_sense_eye_grob-symmetric
+end
+key palettePagePartParentPage groxparts_sense
