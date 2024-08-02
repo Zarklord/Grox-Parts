@@ -1,0 +1,3 @@
+<mod displayName=Grox Parts" unique="groxparts" description="Adds all the grox parts to the creature editor, with improvements to make the parts behave like the vanilla game." isExperimental="$SPOREMOD_EXPERIMENTAL" installerSystemVersion="1.0.1.2" dllsBuild="$SPOREMOD_DLLS_BUILD">
+	<prerequisite game="GalacticAdventures">GroxParts.package</prerequisite>
+</mod>
