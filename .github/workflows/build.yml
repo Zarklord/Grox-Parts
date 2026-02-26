@@ -44,7 +44,7 @@ jobs:
           cd "SporeModder FX"
           java -jar SporeModderFX.jar pack ../GroxParts ../Packages/GroxParts.package
       - name: Upload Packages
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: packages
           retention-days: 1
@@ -59,7 +59,7 @@ jobs:
       contents: write
     steps:      
       - uses: actions/checkout@v4
-      - uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@v8
         with:
           path: ${{ github.workspace }}/Sporemod
           merge-multiple: true
@@ -105,7 +105,7 @@ jobs:
 
       - name: Upload sporemod artifact
         if: ${{ ! contains(github.ref_type, 'tag') }}
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: sporemod
           retention-days: 30
